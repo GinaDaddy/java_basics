@@ -1,9 +1,11 @@
-package com.brian;
+package com.brian.predicate;
 
 import java.util.Arrays;
 import java.util.List;
 
 import org.junit.Test;
+
+import com.brian.predicate.PredicateDemo;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
